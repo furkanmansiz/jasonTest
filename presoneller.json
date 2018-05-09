@@ -1,0 +1,36 @@
+{
+    "personeller": [
+        {
+            "ad": "Furkan",
+            "soyad": "MANSIZ",
+            "bolum": "Yazılım Geliştirme",
+            "maas": 2950,
+            "yas": 18,
+            "cinsiyet": "e"
+        },
+		{
+            "ad": "Ayşe",
+            "soyad": "Kardelen",
+            "bolum": "Mobil Geliştirme",
+            "maas": 5000,
+            "yas": 28,
+            "cinsiyet": "k"
+        },
+		{
+            "ad": "Acun",
+            "soyad": "Ilıcalı",
+            "bolum": "Medya",
+            "maas": 1000000,
+            "yas": 38,
+            "cinsiyet": "e"
+        },
+		{
+            "ad": "Beyazıt",
+            "soyad": "Öztürt",
+            "bolum": "Show man",
+            "maas": 50000,
+            "yas": 50,
+            "cinsiyet": "e"
+        }
+		]
+}
